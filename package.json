@@ -1,0 +1,27 @@
+{
+  "name": "cal_eureka",
+  "version": "1.0.0",
+  "description": "Promt random, bring derivates. First get sum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "cal_eureka": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/russnaknewberry731/cal_eureka.git"
+  },
+  "homepage": "https://github.com/russnaknewberry731/cal_eureka/blob/main/README.md",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "russnaknewberry731",
+  "license": "MIT"
+}
